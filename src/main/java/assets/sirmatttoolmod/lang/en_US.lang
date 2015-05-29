@@ -1,0 +1,17 @@
+item.Pinkite.name=Pinkite Dust
+tile.PinkBlock.name=Pinkite Block
+
+itemGroup.BlockTab=PinkCraft Blocks
+itemGroup.ItemTab=PinkCraft Items
+itemGroup.ToolTab=PinkCraft Tools
+
+item.PinkPick.name=Pink Pickaxe
+item.PinkAxe.name=Pink Axe
+item.PinkSword.name=Pink Sword
+item.PinkShovel.name=Pink Shovel
+item.PinkHoe.name=Pink Hoe
+
+item.PinkHelm.name=Pink Helmet
+item.PinkChest.name=Pink Chestplate
+item.PinkLegs.name=Pink Leggings
+item.PinkShoes.name=Pink Shoes
